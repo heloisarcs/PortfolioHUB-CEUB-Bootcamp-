@@ -1,6 +1,6 @@
 # Plano de Implantação PortfolioHUB
 
-[cite_start]**Objetivo:** Criar uma plataforma centralizada para exibição e gestão de portfólios digitais, focando na integração Git/GitHub e segurança[cite: 15, 16].
+[cite_start]**Objetivo:** Criar uma plataforma centralizada para exibição e gestão de portfólios digitais, focando na integração Git/GitHub e segurança.
 
 **Tecnologias Base:** HTML, CSS (para estrutura visual) e JavaScript (para interatividade).
 
